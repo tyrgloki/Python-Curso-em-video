@@ -1,1 +1,1 @@
-Exercises from [Curso em Video - Python](www.cursoemvideo.com)
+Exercises from [Curso em Video - Python](https://www.cursoemvideo.com)
